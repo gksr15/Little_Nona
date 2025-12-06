@@ -312,7 +312,7 @@ app.py
 ### **2. Why Gradio vs Custom Frontend?**
 
 **Gradio Advantages:**
-- ✅ Rapid development (2-3 hour constraint)
+- ✅ Rapid development 
 - ✅ Professional, modern UI out-of-box
 - ✅ Built-in state management
 - ✅ Responsive by default
@@ -627,8 +627,6 @@ Little Nona's architecture is:
 - **Professional**: Industry best practices
 - **Unique**: Different approach (short stories, warmth)
 - **Production-Ready**: Error handling, config, docs
-
-**Perfect for a 2-3 hour assignment that shows deep thinking!** 🌟
 
 ---
 
