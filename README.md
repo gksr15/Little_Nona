@@ -380,11 +380,9 @@ Instead of a single, general-purpose AI, Little Nona uses **specialized agents**
 **Decision:** Build custom agent system
 
 **Rationale:**
-- **Simplicity:** Only ~1,200 lines of code vs. 500+ with frameworks
 - **Performance:** No framework overhead (~12s vs ~25s per story)
 - **Control:** Fine-tune each agent's temperature independently
 - **Transparency:** Every line of code is understandable
-- **Time:** Built in ~2 hours vs. days learning a framework
 - **Scope:** Simple sequential workflow doesn't need complex orchestration
 
 **Trade-off:**
@@ -439,14 +437,13 @@ This approach is **unique to custom architecture**—frameworks typically use on
 
 ### **5. Gradio UI**
 
-**Decision:** Use Gradio instead of FastAPI + vanilla JS
+**Decision:** Use Gradio as a faster UI interface
 
 **Rationale:**
 - **Speed:** Built UI in <1 hour
 - **Professional:** Clean, modern interface
 - **Python-native:** No context switching
 - **Built-in features:** State management, password fields, tabs
-- **Perfect for scope:** 2-3 hour project constraint
 
 ### **6. Session-Only API Keys**
 
