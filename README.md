@@ -1,4 +1,4 @@
-# 👵 Little Nona - AI Bedtime Story Generator
+# Little Nona - AI Bedtime Story Generator
 
 > *Warm, personalized bedtime stories told with grandmother's love*
 
@@ -6,7 +6,7 @@ A lightweight, intelligent bedtime story generation system that uses a multi-age
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [The Idea Behind Little Nona](#-the-idea-behind-little-nona)
 - [What It Does](#-what-it-does)
@@ -22,7 +22,7 @@ A lightweight, intelligent bedtime story generation system that uses a multi-age
 
 ---
 
-## 💡 The Idea Behind Little Nona
+## The Idea Behind Little Nona
 
 ### **Core Concept**
 
@@ -50,7 +50,7 @@ The system is designed to emulate a loving grandmother telling bedtime stories:
 
 ---
 
-## 🎯 What It Does
+## What It Does
 
 ### **Primary Functions**
 
@@ -85,7 +85,7 @@ The system is designed to emulate a loving grandmother telling bedtime stories:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### **High-Level Overview**
 
@@ -142,7 +142,7 @@ The system is designed to emulate a loving grandmother telling bedtime stories:
 
 ---
 
-## 🔄 Pipeline Breakdown
+## Pipeline Breakdown
 
 ### **Story Generation Flow**
 
@@ -224,7 +224,7 @@ User Request
 
 ---
 
-## 🧠 Agent Architecture Deep Dive
+## Agent Architecture Deep Dive
 
 ### **Why Multi-Agent Architecture?**
 
@@ -373,7 +373,7 @@ Instead of a single, general-purpose AI, Little Nona uses **specialized agents**
 
 ---
 
-## 🎨 Key Design Decisions
+## Key Design Decisions
 
 ### **1. Custom vs. Framework (LangChain, CrewAI)**
 
@@ -457,39 +457,39 @@ This approach is **unique to custom architecture**—frameworks typically use on
 
 ---
 
-## ✅ Strengths
+## Strengths
 
 ### **1. Architecture**
-- ✅ **Simple & Maintainable:** Clear separation of concerns
-- ✅ **Optimized:** Each agent has perfect temperature for its role
-- ✅ **Fast:** ~12 seconds per story (no framework overhead)
-- ✅ **Transparent:** Every component is understandable
-- ✅ **Modular:** Easy to test and extend
+- **Simple & Maintainable:** Clear separation of concerns
+- **Optimized:** Each agent has perfect temperature for its role
+- **Fast:** ~12 seconds per story (no framework overhead)
+- **Transparent:** Every component is understandable
+- **Modular:** Easy to test and extend
 
 ### **2. Quality**
-- ✅ **Safe:** Multi-layer content filtering (prompt + judge)
-- ✅ **Age-Appropriate:** Adaptive vocabulary and complexity
-- ✅ **Warm:** Grandmother-like tone throughout
-- ✅ **Engaging:** Concrete details, show-don't-tell technique
-- ✅ **Bedtime-Suitable:** Every story ends peacefully
+- **Safe:** Multi-layer content filtering (prompt + judge)
+- **Age-Appropriate:** Adaptive vocabulary and complexity
+- **Warm:** Grandmother-like tone throughout
+- **Engaging:** Concrete details, show-don't-tell technique
+- **Bedtime-Suitable:** Every story ends peacefully
 
 ### **3. User Experience**
-- ✅ **Personalized:** Similar names (Emmy from Emma)
-- ✅ **Flexible:** Custom story input field
-- ✅ **Interactive:** Request revisions until perfect
-- ✅ **Secure:** Session-only API keys
-- ✅ **Professional UI:** Clean Gradio interface
+- **Personalized:** Similar names (Emmy from Emma)
+- **Flexible:** Custom story input field
+- **Interactive:** Request revisions until perfect
+- **Secure:** Session-only API keys
+- **Professional UI:** Clean Gradio interface
 
 ### **4. Engineering**
-- ✅ **Scoped Well:** Built in ~2 hours
-- ✅ **Production-Ready:** Error handling, retry logic, validation
-- ✅ **Cost-Efficient:** ~$0.003 per story
-- ✅ **Scalable:** Can handle 100s of stories per day
-- ✅ **Well-Documented:** Comprehensive inline comments
+- **Scoped Well:** Built in ~2 hours
+- **Production-Ready:** Error handling, retry logic, validation
+- **Cost-Efficient:** ~$0.003 per story
+- **Scalable:** Can handle 100s of stories per day
+- **Well-Documented:** Comprehensive inline comments
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 ### **1. Architectural Limitations**
 
@@ -566,7 +566,7 @@ This approach is **unique to custom architecture**—frameworks typically use on
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 ### **High Priority (1-2 hours each)**
 
@@ -700,7 +700,7 @@ COMPLEXITY: Requires ML/recommendations system
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### **Prerequisites**
 - Python 3.8+
@@ -813,13 +813,13 @@ Approximate costs (GPT-3.5-turbo):
 
 ---
 
-## 📄 License
+## License
 
 MIT License - Free to use and modify
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built as a demonstration of practical AI agent architecture for a specific, well-scoped use case. Prioritizes simplicity, maintainability, and effectiveness over complexity.
 
@@ -827,8 +827,8 @@ Built as a demonstration of practical AI agent architecture for a specific, well
 
 <div align="center">
 
-**Little Nona** - *Because every child deserves a warm bedtime story* 🌙✨
+**Little Nona** - *Because every child deserves a warm bedtime story* 
 
-Made with 💖 for peaceful dreams
+Made with for peaceful dreams
 
 </div>
