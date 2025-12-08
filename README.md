@@ -26,7 +26,7 @@ A lightweight, intelligent bedtime story generation system that uses a multi-age
 
 ### **Core Concept**
 
-Bedtime stories are more than entertainment—they're a nightly ritual that helps children wind down, feel safe, and drift into peaceful sleep. However, creating personalized, age-appropriate stories on demand is challenging for tired parents.
+Bedtime stories are more than entertainment; they're a nightly ritual that helps children wind down, feel safe, and drift into peaceful sleep. However, creating personalized, age-appropriate stories on demand is challenging for tired parents.
 
 **Little Nona** solves this by:
 1. **Personalizing** stories with character names similar to the child's name (Emma → Emmy)
@@ -41,7 +41,7 @@ The system is designed to emulate a loving grandmother telling bedtime stories:
 - **Warm, never condescending** - Respects children's intelligence
 - **Safe and gentle** - No violence, fear, or inappropriate content
 - **Calming endings** - Every story ends peacefully for bedtime
-- **Personal connection** - Uses similar names to make child feel included
+- **Personal connection** - Uses similar names to make the child feel included
 - **Patient iteration** - Willing to revise until the story is just right
 
 ### **Why "Little Nona"?**
